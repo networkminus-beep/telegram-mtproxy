@@ -1,0 +1,4 @@
+tg://proxy?server=198.251.91.184&port=8443&secret=eeff38fe4d76468a9fe340cca0ba59d9
+tg://proxy?server=198.251.91.184&port=9443&secret=ee245cf66854d278e49ff68172334bf0
+tg://proxy?server=172.86.118.190&port=8443&secret=1b02a302a42b2bd034a4bd03cd2e53e0
+tg://proxy?server=172.86.118.190&port=443&secret=a5026141feabb864f79229eba9458c13
